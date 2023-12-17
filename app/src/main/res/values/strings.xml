@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TA_PPB</string>
+    <string name="not_register">Tidak memiliki akun? <font color='DarkGrey'>Daftar Sekarang! </font> </string>
+    <string name="after_register">Sudah memiliki akun? <font color='DarkGrey'>Login Sekarang! </font> </string>
+    <string name="keluar">Keluar</string>
+    <string name="batal">Batal</string>
+    <string name="nama_sekolah">Nama Sekolah:</string>
+    <string name="pengenal">© School Apps by Rahmi Sefrial Dayanti 2023</string>
+    <string name="misi">1. Menerapkan nilai-nilai karakter bangsa dalam \nsetiap aktifitas di sekolah</string>
+    <string name="text4">Tim Pengembang\nRTitik Aipah Nurainah\n(21076025)</string>
+</resources>
